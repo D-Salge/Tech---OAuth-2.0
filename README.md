@@ -1,7 +1,6 @@
 # Tech - Autenticação com OAuth 2.0 via GitHub
 
 ![Linguagem Principal](https://img.shields.io/github/languages/top/D-Salge/Tech---OAuth-2.0?style=for-the-badge)
-![Licença](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 
 Projeto desenvolvido com Django para demonstrar a implementação de um sistema de autenticação social (OAuth 2.0) utilizando o **GitHub** como provedor. O sistema permite que usuários façam login em uma aplicação de forma segura, sem a necessidade de criar uma nova senha, utilizando suas credenciais do GitHub.
 
@@ -106,14 +105,6 @@ Siga os passos abaixo para executar o projeto em sua máquina local.
 2.  Você será redirecionado para a página de autorização do GitHub.
 3.  Faça login com sua conta do GitHub e autorize a aplicação.
 4.  Após a autorização, você será redirecionado de volta para a aplicação, já autenticado.
-
----
-
-### 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
-
-*(Sugestão: Crie um arquivo chamado `LICENSE` no seu repositório e adicione o texto da licença MIT para que o badge funcione corretamente).*
 
 ---
 
